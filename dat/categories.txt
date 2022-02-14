@@ -1,0 +1,19 @@
+1
+Food
+In this category you can find all items related to food.
+
+2
+Technical equipment
+In this category you can find all items from technical area.
+
+3
+Literature
+In this category you can find books, comics etc.
+
+4
+Bicycles
+In this category you can find all kinds of bicycles.
+
+5
+Video games
+In this category you can find video games for consoles or PCs.
